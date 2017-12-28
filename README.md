@@ -3,5 +3,5 @@
 2. Recognizing CIFAR-10 images using Convolutional Neural Networks
 	- Part I   - Simple model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Simple-Model.ipynb))
 	- Part II  - Improved model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
-	- Part III - Data Augmentation
+	- Part III - Data Augmentation ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model-Data-Augmentation.ipynb))
 3. Traffic Sign Recognition using Convolutional Neural Networks ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Traffic-Sign-Recognition.ipynb))
