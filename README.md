@@ -5,3 +5,4 @@
 	- Part II  - Improved model ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model.ipynb))
 	- Part III - Data Augmentation ([IPython notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Recognizing-CIFAR-10-images-Improved-Model-Data-Augmentation.ipynb))
 3. Traffic Sign Recognition using Convolutional Neural Networks ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Traffic-Sign-Recognition.ipynb))
+4. Movie Recommendation Engine ([IPython Notebook](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Movie_Recommendation_Engine.ipynb))
