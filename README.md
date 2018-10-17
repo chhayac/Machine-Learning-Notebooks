@@ -10,3 +10,4 @@
 | Movie Recommendation Engine | [Movie_Recommendation_Engine.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Movie_Recommendation_Engine.ipynb) | Built a movie recommendation engine using k-nearest neighbour algorithm implemented from scratch. |
 | Linear Regression | [Linear_Regression.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Linear_Regression.ipynb) | Built a simple linear regression model to predict profit of food truck based on population and profit of different cities. |
 | Multivariate Linear Regression | [Multivariate_Linear_Regression.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Multivariate_Linear_Regression.ipynb) | Built a simple multivariate linear regression model to predict the price of a house based on the size of the house in square feet and number of bedrooms in the house. |
+| Sentiment Analysis of Movie Reviews| [Sentiment_Analysis.ipynb]()| |
