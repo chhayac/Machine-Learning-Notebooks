@@ -13,4 +13,4 @@
 | Sentiment Analysis of Movie Reviews| [Sentiment_Analysis.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Sentiment_Analysis.ipynb)| Experiment to analyze sentiment according to their movie reviews. |
 | Wine quality prediction | [Predicting_wine_quality.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Predicting_wine_quality.ipynb)| Experiment to predict wine quality with feature selection. |
 | Unsupervised Learning | [unsupervised_learning-Part_1.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/unsupervised_learning-Part_1.ipynb)| Hands-on with Unsupervised learning. |
-| Autoencoders using Fashion MNIST| [Autoencoder_Fashion_MNIST.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Autoencoder_Fashion_MNIST.ipynb)| Building autoencoder as a classifier using Fashion MNIST dataset. |
+| Autoencoders using Fashion MNIST| [Autoencoder_Fashion_MNIST.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Autoencoder_Fashion_MNIST.ipynb)| Building an autoencoder as a classifier using Fashion MNIST dataset. |
