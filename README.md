@@ -15,5 +15,5 @@
 | Unsupervised Learning | [unsupervised_learning-Part_1.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/unsupervised_learning-Part_1.ipynb)| Hands-on with Unsupervised learning. |
 | Autoencoders using Fashion MNIST| [Autoencoder_Fashion_MNIST.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Autoencoder_Fashion_MNIST.ipynb)| Building an autoencoder as a classifier using Fashion MNIST dataset. |
 | Logistic Regression| [Logistic_Regression.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Logistic_Regression.ipynb)| Built a logistic regression model from scratch |
-| Fuzzy string matching| [fuzzy_string_matching.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/fuzzy_string_matching.ipynb)| To study how to compare strings and determine how similar they are. |
+| Fuzzy string matching| [fuzzy_string_matching.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/fuzzy_string_matching.ipynb)| To study how to compare strings and determine how similar they are in Python. |
 
