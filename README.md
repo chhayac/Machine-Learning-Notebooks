@@ -17,4 +17,4 @@
 | Logistic Regression| [Logistic_Regression.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/Logistic_Regression.ipynb)| Built a logistic regression model from scratch |
 | Fuzzy string matching| [fuzzy_string_matching.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/fuzzy_string_matching.ipynb)| To study how to compare strings and determine how similar they are in Python. |
 | Spam email classification| [spam_email_classification.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/spam_email_classification.ipynb)| Built a spam detection classification model using an email dataset.
-| Customer churn prediction| [customer_churn_prediction.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/customer_churn_prediction.ipynb)| To predict if customers churn i.e. unsubscribed or cancelled the service.
+| Customer churn prediction| [customer_churn_prediction.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/customer_churn_prediction.ipynb)| To predict if customers churn i.e. unsubscribed or cancelled their service.
