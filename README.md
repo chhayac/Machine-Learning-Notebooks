@@ -18,3 +18,4 @@
 | Fuzzy string matching| [fuzzywuzzy.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/fuzzy_string_matching.ipynb)| To study how to compare strings and determine how similar they are in Python. |
 | Spam email classification| [spam_email_classification.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/spam_email_classification.ipynb)| Build a spam detection classification model using an email dataset.
 | Customer churn prediction| [customer_churn_prediction.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/customer_churn_prediction.ipynb)| To predict if customers churn i.e. unsubscribed or cancelled their service.- In Progress|
+| Predicting Credit Card Approvals| [predicting_credit_card_approvals.ipynb](https://github.com/chhayac/Machine-Learning-Notebooks/blob/master/predicting_credit_card_approvals.ipynb)| To predict the approval or rejection of a credit card application|
